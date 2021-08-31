@@ -13,5 +13,5 @@ Simplest React Native example project created from [this](https://www.youtube.co
 - Run `expo start` to run the app in the expo development mode.
 - Open [http://localhost:19002/](http://localhost:19002/) to view it in the browser.
 - Select your device (Android or iOS) or an emulator to run the app.
-    - The page will reload if you make edits.
+    - The app will reload if you make edits.
     - You will also see any lint errors in the console.
