@@ -1,6 +1,6 @@
 # Configuring app icon, splash screen and name in React Native
 
-React Native project created from [this](https://www.youtube.com/watch?v=iOitq0mDaLc) video. Original project repository [here](https://github.com/rocketseat-content/youtube-icon-and-splash).
+React Native project created from [this](https://www.youtube.com/watch?v=3Gf9yb53bJM) video. Original project repository [here](https://github.com/rocketseat-content/youtube-icon-and-splash).
 
 ## Used technologies:
 - JavaScript ES6
