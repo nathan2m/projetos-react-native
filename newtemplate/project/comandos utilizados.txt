@@ -1,0 +1,13 @@
+npx react-native init newtemplate	// Cria um projeto React Native chamado "newtemplate"
+
+npx react-native run-android    // Executa app em um dispositivo android (A execução inicial demora mais tempo, mas depois é rápida)
+
+yarn add react-native-gesture-handler
+
+yarn add react-navigation
+
+yarn add axios
+
+yarn add -D eslint
+
+npx eslint --init
