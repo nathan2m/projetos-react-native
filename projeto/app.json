@@ -1,11 +1,4 @@
 {
-  "expo": {
-    "name": "projeto",
-    "slug": "projeto",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
-  },
-  "name": "projeto"
+  "name": "projeto",
+  "displayName": "projeto"
 }
