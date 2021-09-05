@@ -1,7 +1,3 @@
 npx react-native init projeto	// Cria um projeto React Native chamado "projeto"
-Ou
-expo init projeto	// Cria um projeto React Native com Expo de nome "projeto"
 
 npx react-native run-android    // Executa app em um dispositivo android (A execução inicial demora mais tempo, mas depois é rápida)
-Ou
-expo start  // Executa app utilizando o Expo
