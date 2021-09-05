@@ -1,11 +1,4 @@
 {
-  "expo": {
-    "name": "flex",
-    "slug": "flex",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
-  },
-  "name": "flex"
+  "name": "flex",
+  "displayName": "flex"
 }

@@ -1,7 +1,3 @@
 npx react-native init flex	// Cria um projeto React Native chamado "flex"
-Ou
-expo init flex	// Cria um projeto React Native com Expo de nome "flex"
 
 npx react-native run-android    // Executa app em um dispositivo android (A execução inicial demora mais tempo, mas depois é rápida)
-Ou
-expo start  // Executa app utilizando o Expo
