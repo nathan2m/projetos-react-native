@@ -1,0 +1,6 @@
+npx react-native init iconAndSplash	// Cria um projeto React Native chamado "iconAndSplash"
+
+npx react-native run-android    // Executa app em um dispositivo android (A execução inicial demora mais tempo, mas depois é rápida)
+
+
+https://apetools.webprofusion.com/
