@@ -1,0 +1,7 @@
+npx react-native init quickact	// Cria um projeto React Native chamado "quickact"
+
+npx react-native run-android    // Executa app em um dispositivo android (A execução inicial demora mais tempo, mas depois é rápida)
+
+yarn add react-native-quick-actions     // Pacote para adicionar menu que aparece quando usuário pressiona o ícone da aplicação com mais força.
+
+(react-native link react-native-quick-actions)
