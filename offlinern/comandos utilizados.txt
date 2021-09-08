@@ -1,0 +1,11 @@
+npx react-native init offlinern	// Cria um projeto React Native chamado "offlinern"
+
+npx react-native run-android    // Executa app em um dispositivo android (A execução inicial demora mais tempo, mas depois é rápida)
+
+yarn add axios
+
+yarn add seamless-immutable     // Pacote que permite manipular States do App
+
+yarn add react-redux reactotron-react-native reactotron-redux redux redux-offline-queue redux-saga reduxsauce
+
+yarn add @react-native-community/netinfo
