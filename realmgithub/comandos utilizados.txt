@@ -1,0 +1,43 @@
+npx react-native init realmgithub	// Cria um projeto React Native chamado "realmgithub"
+
+npx react-native run-android    // Executa app em um dispositivo android (A execução inicial demora mais tempo, mas depois é rápida)
+
+
+yarn add axios
+
+yarn add prop-types
+
+yarn add react-native-gesture-handler
+
+yarn add react-native-linear-gradient
+
+yarn add react-native-status-bar-height
+
+yarn add react-native-vector-icons
+
+yarn add react-navigation
+
+yarn add reactotron-react-native
+
+yarn add realm
+
+yarn add styled-components
+
+
+yarn add -D babel-eslint
+
+yarn add -D babel-plugin-root-import
+
+yarn add -D eslint-config-airbnb
+
+yarn add -D eslint-import-resolver-babel-plugin-root-import
+
+yarn add -D eslint-plugin-import
+
+yarn add -D eslint-plugin-jsx-a11y
+
+yarn add -D eslint-plugin-react
+
+yarn add -D eslint-plugin-react-native
+
+yarn add -D react-test-renderer
