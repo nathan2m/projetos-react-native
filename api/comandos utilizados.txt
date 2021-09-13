@@ -1,0 +1,7 @@
+npx react-native init api	// Cria um projeto React Native chamado "api"
+
+npx react-native run-android    // Executa app em um dispositivo android (A execução inicial demora mais tempo, mas depois é rápida)
+
+yarn add apisauce   // Pacote para consumir API 
+
+yarn add @react-native-async-storage/async-storage
