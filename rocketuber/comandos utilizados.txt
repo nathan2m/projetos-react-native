@@ -1,0 +1,17 @@
+npx react-native init rocketuber	// Cria um projeto React Native chamado "rocketuber"
+
+npx react-native run-android    // Executa app em um dispositivo android (A execução inicial demora mais tempo, mas depois é rápida)
+
+yarn add react-native-maps
+
+yarn add react-native-google-places-autocomplete
+
+yarn add react-native-maps-directions
+
+yarn add styled-components
+
+yarn add react-native-geocoding
+
+
+
+AIzaSyCRzRTZu2aLuUThZp4mytAPctSN6Qwxmcg     // Chave Google Maps API
