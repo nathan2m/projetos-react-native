@@ -1,6 +1,6 @@
 # Tests with Jest in React Native
 
-React Native project created from [this]() video.
+React Native project created from [this](https://www.youtube.com/watch?v=aK-wHbSD3Ws) video.
 
 ## Used technologies:
 - JavaScript ES6
