@@ -1,0 +1,21 @@
+npx react-native init testesjest	// Cria um projeto React Native chamado "testesjest"
+
+npx react-native run-android    // Executa app em um dispositivo android (A execução inicial demora mais tempo, mas depois é rápida)
+
+
+yarn add enzyme
+
+yarn add enzyme-adapter-react-16
+
+yarn add react-test-renderer
+
+yarn add react-redux
+
+yarn add redux
+
+
+yarn add -D redux-mock-store
+
+
+
+npm run test
