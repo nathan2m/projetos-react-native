@@ -1,0 +1,8 @@
+npx react-native init layoutrn	// Cria um projeto React Native chamado "layoutrn"
+
+npx react-native run-android    // Executa app em um dispositivo android (A execução inicial demora mais tempo, mas depois é rápida)
+
+
+yarn add react-native-vector-icons
+
+yarn add reactotron-react-native
