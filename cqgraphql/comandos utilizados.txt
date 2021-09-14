@@ -1,0 +1,16 @@
+npx react-native init cqgraphql	// Cria um projeto React Native chamado "cqgraphql"
+
+npx react-native run-android    // Executa app em um dispositivo android (A execução inicial demora mais tempo, mas depois é rápida)
+
+
+yarn add apollo-cache-inmemory
+
+yarn add apollo-client
+
+yarn add apollo-link-http
+
+yarn add graphql
+
+yarn add graphql-tag
+
+yarn add react-apollo
